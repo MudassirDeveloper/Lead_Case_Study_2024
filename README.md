@@ -1,10 +1,8 @@
-# Lead_Case_Study_2024
+Business Objective:
+The goal is to assist X Education in identifying the most promising leads (hot leads), which are the ones most likely to convert into paying customers. The focus includes:
+a) Identifying hot leads
+b) Targeted marketing strategies
+c) Improving the lead conversion rate
 
-Business Objective
-To help X Education select most promising Leads( Hot Leads), the leads that are most likely to convert into paying customers:
-a)Selection of the hot leads
-b)Focused marketing
-c)Higher lead conversion rate
-
-Goals of the Case Study
-Build a logistic regression model with a score range of 0 to 100 for each lead so that the business can target potential leads. A greater score, on the other hand, would suggest that the lead is hot and likely to convert, while a lower number would indicate that the lead is cold and unlikely to convert.
+Goals of the Case Study:
+Develop a logistic regression model that assigns a score between 0 and 100 to each lead, allowing the business to prioritize potential leads. A higher score would indicate a hot lead with a high likelihood of conversion, while a lower score would suggest a cold lead, less likely to convert.
